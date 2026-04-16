@@ -1,0 +1,11 @@
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+mlruns/
+mlflow.db
+model.pkl
+*.log
+.DS_Store
